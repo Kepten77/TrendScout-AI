@@ -1,0 +1,8 @@
+{
+  "name": "TrendScout AI",
+  "description": "An AI-powered social media trend analyzer and content generator for Instagram, TikTok, and YouTube. Discover viral content, extract hooks and transcripts, and generate new scripts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
